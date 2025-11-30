@@ -66,7 +66,7 @@
 
 # screenshots/03_desc_access_violation_log
 ![image description]( screenshots/03_desc_access_violation_log.PNG)
-#screenshots/04_test_inserts_result
+# 04_test_inserts_result
 ![image description]( screenshots/04_test_inserts_result.PNG)
 
 # 
