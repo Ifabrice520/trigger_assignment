@@ -64,7 +64,7 @@
 ## 02_desc_system_access_attempts
 ![image description](screenshots/02_desc_system_access_attempts.PNG)
 
-# screenshots/03_desc_access_violation_log
+# 03_desc_access_violation_log
 ![image description]( screenshots/03_desc_access_violation_log.PNG)
 # 04_test_inserts_result
 ![image description]( screenshots/04_test_inserts_result.PNG)
@@ -102,6 +102,6 @@
 ![image description]( screenshots/create_system_access_attempts_table.PNG)
 
 # output_for creating_tables.PNG
-![image description]( screenshots/output_for creating_tables.PNG)
+![image description]( screenshots/output_forcreating_tables.PNG)
 
 ---
