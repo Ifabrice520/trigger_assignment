@@ -61,47 +61,47 @@
 **All requirements from both scenarios successfully implemented and tested.**
 
 # Images
-## 02_desc_system_access_attempts
+## 02 desc system access attempts
 ![image description](screenshots/02_desc_system_access_attempts.PNG)
 
-# 03_desc_access_violation_log
+# 03 desc access violation log
 ![image description]( screenshots/03_desc_access_violation_log.PNG)
-# 04_test_inserts_result
+# 04 test inserts result
 ![image description]( screenshots/04_test_inserts_result.PNG)
 
-# 06_package_body_compiled.PNG
+# 06 package body compiled
 ![image description]( screenshots/06_package_body_compiled.PNG)
 
-# 06_package_spec_compiled.PNG
+# 06 package spec compiled
 ![image description]( screenshots/06_package_spec_compiled.PNG)
 
-# 07_is_access_allowed_check.PNG
+# 07 is access allowed check
 ![image description]( screenshots/07_is_access_allowed_check.PNG)
 
-# 09_blocked_insert_error.PNG
+# 09 blocked insert error
 ![image description]( screenshots/09_blocked_insert_error.PNG)
-# 12_auca_data_rows.PNG
+# 12 auca data rows
 ![image description]( screenshots/12_auca_data_rows.PNG)
 
-# 14_system_access_attempts_after_fix_1.PNG
+# 14 system access attempts_after fix 1
 ![image description]( screenshots/14_system_access_attempts_after_fix_1.PNG)
 
-# 14_system_access_attempts_after_fix_2.PNG
+# 14 system access attempts_after fix 2
 ![image description]( screenshots/14_system_access_attempts_after_fix_2.PNG)
 
-# Q3_trigger_implementation.png
+# Q3 trigger implementation
 ![image description]( screenshots/Q3_trigger_implementation.png)
 
-# Q3_trigger_screation.png
+# Q3 trigger screation
 ![image description]( screenshots/Q3_trigger_screation.png)
 
-# create_access_violation_log_table.PNG
+# create access violation log table
 ![image description]( screenshots/create_access_violation_log_table.PNG)
 
-# create_system_access_attempts_table.PNG
+# create system access attempts table
 ![image description]( screenshots/create_system_access_attempts_table.PNG)
 
-# output_for creating_tables.PNG
+# output for creating_tables
 ![image description]( screenshots/output_for_creating_tables.PNG)
 
 ---
