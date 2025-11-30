@@ -64,7 +64,7 @@
 ## 02_desc_system_access_attempts
 
 ![image description](screenshots/02_desc_system_access_attempts.PNG)
-![02_desc_system_access_attempts]( )
-screenshots/03_desc_access_violation_log.PNG
+ 
+ 
 
 ---
