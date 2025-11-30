@@ -102,6 +102,6 @@
 ![image description]( screenshots/create_system_access_attempts_table.PNG)
 
 # output_for creating_tables.PNG
-![image description]( screenshots/output_forcreating_tables.PNG)
+![image description]( screenshots/output_for_creating_tables.PNG)
 
 ---
