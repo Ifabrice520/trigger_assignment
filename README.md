@@ -3,7 +3,7 @@
 
 
 **Institution:** African University of Central Africa (AUCA)  
-**Date:** November 2025  
+**Date:** 11 2025  
 
 
 ---
